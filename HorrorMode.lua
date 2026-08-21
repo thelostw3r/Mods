@@ -469,6 +469,7 @@ pcall(function(): ()
 	SpecterEntityBase.Spawn.Playing = false
 
 	WraithEntityBase.WraithNew.PlaySound.Playing = false
+    WraithEntityBase.WraithNew.PlaySound.SoundId = "rbxassetid://715673747"
 	WraithEntityBase.WraithNew.PlaySound2.Playing = false
 end)
 
